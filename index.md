@@ -19,7 +19,7 @@ This project provides a comprehensive toolkit to parse, analyze, and cluster str
 
 ## Repository
 
-[View the project on GitHub](https://github.com/nihaalkuchangi/ISFCR_LogParsing)
+[View the project on GitHub](https://github.com/nihaalk/LogParsers)
 
 ## Getting Started
 
